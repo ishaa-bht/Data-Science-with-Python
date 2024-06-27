@@ -1,0 +1,8 @@
+write mode= override the texts if already exists
+append mode= adds contetng at the end of file
+
+
+JSON file= lightweight data interchange format
+compatible with any programming language
+similar to dictionary but not same
+Json stores data only not functions

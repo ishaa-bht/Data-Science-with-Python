@@ -1,0 +1,10 @@
+................String.............
+
+single quote or double,
+immutable ; cannot be changed
+
+................Dictionary................
+collection of key-value pairs
+defined by using curly braces
+key is unique
+changeable

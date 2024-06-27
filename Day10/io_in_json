@@ -1,0 +1,25 @@
+import json
+#Writing json file
+json_data = {
+    "name":"Isha",
+    "age": 20,
+    "address": "Biratnagar"
+}
+
+
+
+with open("example.json","w") as file:
+    json.dump(json_data, file)
+
+
+#Reading 
+with open("example.json","r") as file:
+    json_content= json.load(file)
+    # print(json_content)
+
+#Accessing elements from json content
+for record in json_content:
+    print(record["name"])
+
+
+    

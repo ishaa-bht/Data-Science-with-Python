@@ -1,0 +1,47 @@
+Data Science- using data for problem solving.
+large data in database, small data in files.
+
+Data Science
+Data Wrangling=managing data
+EDA= correct biases on Data
+
+ensemble learning= euta model ko weakness arko le compensate.
+
+huge data--deep learning---require powerful hardware
+limited data--machine learning
+
+................................Shortcuts.......................................
+
+ctrl+Enter= Go to new line
+ctrl+/= select and comment all
+
+py + Tab for suggestions in cmd
+
+
+
+....................Intermediate python session.................................
+
+1. Variable
+-case sensitive
+-naming cannot start with a number
+
+2.Datatypes
+-Numeric
+	int 
+	float
+	complex
+ 
+-Dictionary
+-Boolean
+-Sequential
+
+3.Operators
+
+4.Type casting
+int()
+float()
+str()
+
+
+LESSON 2: DATA STRUCTURE
+

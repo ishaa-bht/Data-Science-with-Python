@@ -1,0 +1,11 @@
+..............Generator function....................
+yield= returns iterator object.
+
+once accessed data is deleted; memory efficient.
+
+used while dealing with huge amount of data.
+
+...........Decorator in Py.....................
+decorator function, original and wrapper function
+
+

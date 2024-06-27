@@ -1,0 +1,3 @@
+Hello World
+I love python
+I am learning file operation in python

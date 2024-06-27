@@ -1,0 +1,10 @@
+static method:
+use functin without using slef or cls
+public:
+var, fun()
+protected:
+_var,_fun() //accessible but is not accessed bc of convention
+private
+__var, __fun()
+
+................Inheritance...........

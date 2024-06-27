@@ -1,0 +1,11 @@
+..........Comprehension Techiques in Python............
+reduce line of codes
+used in list set and dictionary.
+
+
+........Collection module(specialized container datatypes)........
+
+....................Functional programming.....................
+reusable block of code to perform specific task,
+reduce redundancy, improve readability
+

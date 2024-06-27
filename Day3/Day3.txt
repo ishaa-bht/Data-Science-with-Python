@@ -1,0 +1,3 @@
+Tuple are same as lists but unmutable ie cannot be chnaged
+
+Set= {}: elements cannot be repeated.

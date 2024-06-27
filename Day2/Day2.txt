@@ -1,0 +1,3 @@
+list is mutable, tuple is not mutable
+
+range always an integer
